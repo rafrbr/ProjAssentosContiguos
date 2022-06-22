@@ -68,9 +68,7 @@ public class AssentosContiguos {
 
 	private static void questoes() {
 		int x;
-		
 		try {
-			
 			x = 9 /2 ;
 			if (x== 4)
 				throw new RuntimeException("Deveria se 4.5");
